@@ -2,12 +2,15 @@
 
 *** 
 
-Dibuat Oleh 	:	**Enjang Dwi Kartini** 
-					**( NIM : 163210011)**
+Dibuat Oleh 	:	
+
+**Enjang Dwi Kartini** 
+
+**( NIM : 163210011)**
 
 ***
 
-| Prrtemuan      | Nama Repo                                                                                |  Tanggal          |  Kegunaan                      |
+| Pertemuan      | Nama Repo                                                                                | Tanggal           | Kegunaan                      |
 | ---------------|:----------------------------------------------------------------------------------------:| -----------------:|--------------------------------|
 | Pertemuan 1    | [tct](https://github.com/EnjangDwiKartini/tct/tree/master/minggu-1 "minggu-1")           | 7 September 2018  | belajar XaaS                   |
 | Pertemuan 2    | [tct](https://github.com/EnjangDwiKartini/tct/tree/master/minggu-2 "minggu-2")           | 14 September 2018 | belajar SaaS                   |
